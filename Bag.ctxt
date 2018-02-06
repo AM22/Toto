@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Bag
+comment0.text=\r\n\ Models\ the\ trainer's\ bag.\r\n\r\n\ @author\ Joshua\ Wu\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=Bag()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Bag\r\n
+comment2.params=amount
+comment2.target=void\ spendMoney(int)
+comment3.params=amount
+comment3.target=void\ addMoney(int)
+comment4.params=
+comment4.target=int\ getMoney()
+comment5.params=
+comment5.target=int\ getCount()
+comment6.params=item
+comment6.target=void\ addItem(java.lang.String)
+comment7.params=index
+comment7.target=java.lang.String\ getItemName(int)
+comment8.params=index
+comment8.target=void\ destroyItem(int)
+numComments=9

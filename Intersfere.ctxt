@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Intersfere
+comment0.text=\r\n\ Represents\ a\ Intersfere.\r\n\r\n\ @author\ Joshua\ Wu\r\n\ @version\ 1\r\n
+comment1.params=averageLevel
+comment1.target=Intersfere(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Intersfere\r\n
+comment2.params=
+comment2.target=void\ stats()
+comment3.params=
+comment3.target=void\ display()
+comment4.params=
+comment4.target=void\ moves()
+comment5.params=monsters
+comment5.target=void\ transform(Monster[])
+numComments=6

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Magon
+comment0.text=\r\n\ Represents\ a\ Sfere.\r\n\r\n\ @author\ Joshua\ Wu\r\n\ @version\ 1\r\n
+comment1.params=averageLevel
+comment1.target=Magon(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Magon\r\n
+comment2.params=
+comment2.target=void\ stats()
+comment3.params=
+comment3.target=void\ display()
+comment4.params=myMonsters\ death
+comment4.target=void\ transform(Monster[],\ boolean)
+comment5.params=monsters
+comment5.target=void\ transform(Monster[])
+comment6.params=
+comment6.target=void\ moves()
+numComments=7

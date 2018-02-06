@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MyMonsters
+comment0.text=\r\n\ Keeps\ track\ of\ the\ player's\ Totos.\r\n\r\n\ @author\ Joshua\ Wu\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=MyMonsters()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyMonsters\r\n
+comment2.params=toto
+comment2.target=void\ addMonster(Monster)
+comment3.params=
+comment3.target=Monster[]\ getMonsters()
+comment4.params=
+comment4.target=int\ getCount()
+numComments=5

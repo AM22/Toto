@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Battle
+comment0.text=\r\n\ Simulates\ a\ battle\ between\ two\ Totos.\r\n\r\n\ @author\ Joshua\ Wu\r\n\ @version\ 1\r\n
+comment1.params=myTotos\ enemyMonster\ bag\ back\ frame
+comment1.target=Battle(MyMonsters,\ Monster,\ Bag,\ boolean,\ javax.swing.JFrame)
+comment2.params=
+comment2.target=void\ startBattle()
+numComments=3

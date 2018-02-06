@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CaveOfDefeat
+comment0.text=\r\n\ Stimulates\ the\ Cave\ of\ Defeat\r\n\r\n\ @author\ Joshua\ Wu\r\n\ @version\ 1\r\n
+comment1.params=monsters\ bag\ frame
+comment1.target=CaveOfDefeat(MyMonsters,\ Bag,\ javax.swing.JFrame)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ CaveOfDefeat\r\n
+comment2.params=
+comment2.target=void\ play()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=name
+comment4.target=void\ setName(java.lang.String)
+numComments=5
